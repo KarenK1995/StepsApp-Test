@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stats</key>
+	<array>
+		<dict>
+			<key>imageName</key>
+			<string>iconSteps</string>
+			<key>title</key>
+			<string>4.53 Mio</string>
+			<key>description</key>
+			<string>Steps</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconDistance</string>
+			<key>title</key>
+			<string>4,986 km</string>
+			<key>description</key>
+			<string>Distance</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconTimeDark</string>
+			<key>title</key>
+			<string>4 Weeks</string>
+			<key>description</key>
+			<string>Active Time</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconCalories</string>
+			<key>title</key>
+			<string>500 K</string>
+			<key>description</key>
+			<string>KCAL</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconFloors</string>
+			<key>title</key>
+			<string>1890</string>
+			<key>description</key>
+			<string>Floors</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconGoal</string>
+			<key>title</key>
+			<string>250 x</string>
+			<key>description</key>
+			<string>5,000 Steps</string>
+		</dict>
+	</array>
+</dict>
+</plist>

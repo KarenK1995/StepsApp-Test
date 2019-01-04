@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>records</key>
+	<array>
+		<dict>
+			<key>imageName</key>
+			<string>iconSteps</string>
+			<key>title</key>
+			<string>25,789</string>
+			<key>description</key>
+			<string>Mar 22, 2017</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconDistance</string>
+			<key>title</key>
+			<string>22 km</string>
+			<key>description</key>
+			<string>Mar 22, 2017</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconTimeDark</string>
+			<key>title</key>
+			<string>4h 5min</string>
+			<key>description</key>
+			<string>Aug 27, 2018</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>iconCalories</string>
+			<key>title</key>
+			<string>3,539</string>
+			<key>description</key>
+			<string>Aug 25, 2018</string>
+		</dict>
+	</array>
+</dict>
+</plist>
